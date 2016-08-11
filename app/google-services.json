@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "995608400419",
+    "firebase_url": "https://nodal-cogency-139909.firebaseio.com",
+    "project_id": "nodal-cogency-139909",
+    "storage_bucket": "nodal-cogency-139909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995608400419:android:3ef64e3e8f40509d",
+        "android_client_info": {
+          "package_name": "com.guness.placer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995608400419-3c877g5vvnitehapltjteoc07lram1sm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.guness.placer",
+            "certificate_hash": "9765EB4B492030E87D8671EA1E933FE2DF56B199"
+          }
+        },
+        {
+          "client_id": "995608400419-ba6rgv6adg9d1tipj4iv81m3bh5pt8e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA170DqbPUdpYiee918XWrJ4f2W_rG4WaI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995608400419-ba6rgv6adg9d1tipj4iv81m3bh5pt8e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
